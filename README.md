@@ -1,7 +1,3 @@
-Berikut adalah deskripsi dan kode contoh untuk tugas "Membuat Program Inventori Barang Sederhana" beserta contoh input:
-
----
-
 ### Deskripsi Tugas:
 Anda diminta membuat program inventori barang sederhana dengan fitur-fitur sebagai berikut:
 1. **Menambah Barang**: Pengguna dapat menambahkan barang baru dengan informasi nama, kode unik, jumlah, dan harga per unit.
